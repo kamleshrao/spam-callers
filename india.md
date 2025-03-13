@@ -24,4 +24,6 @@
 | 20   | Insurance  | Max Life        | +911204755400 |             | 
 | 21   | Insurance  | Max Life        | +911204754650 |             | 
 | 22   | Loan       | Bajaj Finserv   | +918037811165 | IVR based   | 
+| 23   | Loan       | Yes Bank        | +918970030859 | Car Loan    | 
+| 24   | Loan       | Yes Bank        | +919482451528 | Car Loan    | 
 
